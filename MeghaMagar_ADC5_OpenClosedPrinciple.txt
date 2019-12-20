@@ -1,0 +1,11 @@
+O- OCP (Open Closed Principle) 
+Open Close Principle says that a class should be 
+closed  for  modification  and  should  be  open  for 
+Extension.  For  example  if  the  customer  class  has 
+Gold customers, silver customers. In case in future if 
+we want to add a new customer type then we have to 
+modify  the customer  class and  we have  to test  the 
+functionality  again.  Instead  we can  make  the  class 
+should be closed for modification and should be open 
+for extension. In other words rather than modifying the 
+class we go for extension.
